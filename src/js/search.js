@@ -59,5 +59,3 @@ async function fetchGallery() {
 function clearGallery() {
   galleryRef.innerHTML = '';
 }
-
-console.log(galleryRef);
